@@ -1,7 +1,7 @@
 //import 'dart:html';
 
 import 'package:flutter/material.dart';
-import 'package:flutter/src/material/circle_avatar.dart';
+//import 'package:flutter/src/material/circle_avatar.dart';
 //import 'package:flutter/src/widgets/basic.dart';
 
 void main() {
